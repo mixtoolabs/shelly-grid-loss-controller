@@ -19,7 +19,7 @@
 // Maximum 3 (Shelly allows no more than 5 concurrent RPC calls per script;
 // an OFF broadcast fires one HTTP.POST per target at once).
 let TARGETS = [
-  "192.168.1.33"
+  "192.168.1.20"
   // "192.168.1.21",
   // "192.168.1.22"
 ];
